@@ -1,6 +1,6 @@
 # ADS Project 5: 
 
-Term: Fall 2018
+Term: Spring 2020
 
 + Team #
 + Projec title: Lorem ipsum dolor sit amet
